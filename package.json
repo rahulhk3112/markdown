@@ -95,7 +95,7 @@
     "immutable": "3.8.1",
     "lodash": "4.17.4",
     "markdown-it": "^8.4.0",
-    "prismjs": "1.6.0",
+    "prismjs": "1.21.0",
     "prop-types": "15.5.10",
     "react-bootstrap": "0.31.2",
     "react-click-outside": "3.0.1",
